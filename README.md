@@ -128,5 +128,5 @@ See `requirements.txt`. Key packages:
 
 ## Contact
 
-Assignment submitted by: **[Your Name]**
-For queries: [INSERT EMAIL] | Subject: `Assignment Query – [Your Name]`
+Assignment submitted by: Arghyabir Saha
+
